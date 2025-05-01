@@ -1,1 +1,2 @@
-# Roblox-Cookie-grabber
+**IMPORTANT**
+**NEED PYTHON TO RUN**
