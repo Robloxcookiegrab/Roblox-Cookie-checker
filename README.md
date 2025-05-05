@@ -1,2 +1,2 @@
 **IMPORTANT**
-**NEED PYTHON TO RUN**
+**Might need to press it two times**
